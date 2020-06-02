@@ -1,0 +1,2 @@
+1.removed gst and pan from add and edit company(frontend)
+removed @notnull and @notEmpty of gst from companyDto(backEnd)
